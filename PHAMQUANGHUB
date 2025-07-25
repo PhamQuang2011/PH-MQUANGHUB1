@@ -7,4 +7,4 @@ logoscript "1342824462",--ID Logo Script
 tacgia "Pham Quang Hub" Tên Tác Giả
 
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BananaHub11/premium/refs/heads/main/blox-fruits",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/trongnguyen345roblox/TRONGNGUYEN/refs/heads/main/andepzainewupdate.txt"))()
