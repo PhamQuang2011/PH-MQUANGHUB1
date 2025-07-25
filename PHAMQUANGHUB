@@ -1,0 +1,10 @@
+Config = {
+
+namescript "PHẠM QUANG HUB PERIUM",--Tên Script
+
+logoscript "1342824462",--ID Logo Script
+
+tacgia "Pham Quang Hub" Tên Tác Giả
+
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BananaHub11/premium/refs/heads/main/blox-fruits",true))()
